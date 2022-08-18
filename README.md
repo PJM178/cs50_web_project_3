@@ -1,4 +1,4 @@
-# CS50's Web Programming with Python and JavaScript - Project 3
+# CS50's Web Programming with Python and JavaScript - Project 3 - Email
 This is a repository for project 3 of CS50's Web Programming with Python and JavaScript. The goal of this project was to "design a front-end for an email client that makes API calls to send and receive emails". Django framwork along with necessary API's was given so the only thing required with the project was to modify JavaScript and HTML files. When the user has registered an account and signed in, this is essentially a single-page web application. The following are the specifications required by the project:
 
 * Send Mail: When a user submits the email composition form, add JavaScript code to actually send the email.
